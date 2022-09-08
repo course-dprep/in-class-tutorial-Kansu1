@@ -8,7 +8,7 @@ The main aim of this to have a basic structure, which can be easily adjusted to 
 3. Present results in a final pdf generated using LaTeX
 
 ## Dependencies
-- R 
+- **R **
 - R packages: `install.packages("stargazer")`
 - [Gnu Make](https://tilburgsciencehub.com/get/make) 
 - [TeX distribution](https://tilburgsciencehub.com/get/latex/?utm_campaign=referral-short)
